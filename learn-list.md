@@ -6,4 +6,4 @@
 4. Vue.js
 5. Flask
 6. Machine Learning
-
+7. 컨설팅 진행
