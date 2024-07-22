@@ -4,3 +4,4 @@
 2. ECMAScript
 3. Git
 4. Vue.js
+5. Machine Learning
